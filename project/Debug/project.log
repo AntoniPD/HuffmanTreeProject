@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\antoni dobrenov\documents\visual studio 2017\projects\project\project\main.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\antoni dobrenov\documents\visual studio 2017\projects\project\project\main.cpp(96): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  BinTable.cpp
+  frequencyTable.cpp
+  HuffmanTree.cpp
+  project.vcxproj -> C:\Users\Antoni Dobrenov\Documents\Visual Studio 2017\Projects\project\Debug\project.exe
+  project.vcxproj -> C:\Users\Antoni Dobrenov\Documents\Visual Studio 2017\Projects\project\Debug\project.pdb (Partial PDB)
